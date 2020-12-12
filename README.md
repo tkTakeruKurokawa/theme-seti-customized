@@ -2,8 +2,8 @@
 
 VSCode用ファイルアイコンテーマ
 
-以下にコピー
+以下に配置
 
 ```
-~/.vscode-exploration/extensions
+~/.vscode-exploration/extensions/
 ```
